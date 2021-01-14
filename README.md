@@ -2,7 +2,7 @@
 
 ## 링크
 
-https://interfree.co.kr (클릭시 https://interfree.co.kr/allPostsBoard로 리다이렉트 됩니다. )
+https://interfree.co.kr 
 
 ## 포트폴리오 작성 목적
 

@@ -81,8 +81,8 @@ sns
 
 | 요청 문자열                            | 동작                                          |
 | -------------------------------------- | --------------------------------------------- |
-| https://interfree.co.kr/post/50        | 23번 포스트 페이지로 라우팅                   |
-| https://interfree.co.kr/user/2         | 3번 유저의 페이지로 라우팅                    |
+| https://interfree.co.kr/post/50        |50번 포스트 페이지로 라우팅                   |
+| https://interfree.co.kr/user/2         | 2번 유저의 페이지로 라우팅                    |
 | https://interfree.co.kr/hashtag/댕댕이 | 댕댕이 해시태그를 가진 포스트를 라우팅        |
 | https://interfree.co.kr/search/댕댕이  | 댕댕이 포스트를 검색해 댕댕이 포스트를 라우팅 |
 

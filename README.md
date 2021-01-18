@@ -17,7 +17,7 @@ sns
 프론트엔드: react,next,redux,bootstrap,styled Components  
 백엔드:node,express  
  데이터베이스:mysql,sequelize  
- 서버: aws ec2 우분투
+ 서버: aws ec2 우분투  
 스토리지:s3
 
 ## 개발환경
